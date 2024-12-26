@@ -1,0 +1,22 @@
+{
+  "name": "cypress-testautomationpractice",
+  "version": "1.0.0",
+  "description": "testautomationparactice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ceyyem/cypress-deneme.git"
+  },
+  "author": "Ceyhun Tekin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ceyyem/cypress-deneme/issues"
+  },
+  "homepage": "https://github.com/Ceyyem/cypress-deneme#readme",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
